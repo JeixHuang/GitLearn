@@ -1,7 +1,13 @@
 # 网络设置
 
+
+```plaintext
 git config --global https.proxy 'http://'
+```
+
+```plaintext
 git config --global http.proxy 'http://'
+```
 
 # Email 账户
 
